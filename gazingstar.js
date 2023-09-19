@@ -1,4 +1,4 @@
-const GITHUB_TOKEN = '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';
+const GITHUB_TOKEN = '';
 const PER_PAGE = 45;
 
 async function fetchUserData(user) {
